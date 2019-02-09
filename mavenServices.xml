@@ -1,0 +1,8 @@
+<application>
+  <component name="MavenServices">
+    <service-url>https://oss.sonatype.org/service/local/</service-url>
+    <service-url>http://repo.jfrog.org/artifactory/api/</service-url>
+    <service-url>https://repository.jboss.org/nexus/service/local/</service-url>
+    <service-url>http://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/2.8.7</service-url>
+  </component>
+</application>
